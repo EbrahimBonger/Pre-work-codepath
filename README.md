@@ -1,3 +1,6 @@
+# Pre-work-codepath
+
+
 ## HelloEbrahim!
 
 ### App Description
@@ -5,7 +8,7 @@
       // In each stories, there is implemented functionaly that shown in the gif imahe below.
 
 ### App Walk-though
-<img src= appPreview.gif width=200><br>
+<img src= https://user-images.githubusercontent.com/35973818/71425619-2dce3180-266d-11ea-8a8e-da4d46d3d623.gif width=200><br>
 
 
 ### Required User Stories
@@ -21,3 +24,4 @@
    - [ x] a. User can enter text into a text field using the keyboard.  
    - [ x] b. User can tap the "Change text string" button to update the label with the text from the text field. 
    - [ x] c. If the text field is empty, update label with default text string. 
+
